@@ -1,1 +1,2 @@
 Dies ist ein Text und zwar im File 02.
+Langweilige Änderungen gibts bei File 02.
