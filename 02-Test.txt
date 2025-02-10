@@ -1,2 +1,3 @@
 Dies ist ein Text und zwar im File 02.
 Langweilige Änderungen gibts bei File 02.
+Langweilig schon, aber was soll jetzt noch kommen?
