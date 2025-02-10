@@ -1,1 +1,1 @@
-Dies ist ein Test und zwar im File 01.
+Dies ist ein Text und zwar im File 01.
